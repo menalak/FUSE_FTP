@@ -2,7 +2,7 @@
 
 See: https://www.cs.usfca.edu/~mmalensek/cs326/assignments/project-4.html
 ## About This Project
-This projects is responsible for implementing the FUSE file system in a manner that establishes a linux implementation through TCP connection. 
+This projects is responsible for implementing the FUSE file system in a manner that establishes a linux filesystem implementation through TCP connection. 
 
 NOTE: IMPLEMENTATIONS ONLY SUPPORT READ MODE
 
